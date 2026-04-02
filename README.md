@@ -28,7 +28,7 @@ This project analyzes a digital music store database (Chinook) using SQL and Tab
 - `most_sold_genres.png` → Top genres by tracks sold
 - `revenue_by_country.png` → Revenue by country 
 - `revenue_by_artist.png` → Revenue by artist
-- `employee_support.png` → Number of customers supported by employees
+- `employee_support.png` → Customers supported by each employee
 ## 💡 Key Insights
 - Customer spending is relatively evenly distributed 
 - Certain countries, such as the US and Canada, dominate sales 
