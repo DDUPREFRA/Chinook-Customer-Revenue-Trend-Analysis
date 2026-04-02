@@ -22,13 +22,13 @@ This project analyzes a digital music store database (Chinook) using SQL and Tab
 - Employee workload analysis
 
 ## 📁 Files
-- chinook_analysis.sql → SQL queries
-- Chinhook_Dashboard.twbx → Tableau File
-- TopCustomers.png → Tableau Visualization
-- MostSoldGenres.png → Tableau Visualization
-- RevenueByCountry.png → Tableau Visualization
-- RevenuebyArtist.png → Tableau Visualization
-- EmployeeSupport.png → Tableau Visualization
+- `chinook_analysis.sql` → SQL queries
+- `chinook_dashboard.twbx` → Tableau File
+- `top_customers.png` → Tableau Visualization
+- `most_sold_genres.png` → Tableau Visualization
+- `revenue_by_country.png` → Tableau Visualization
+- `revenue_by_artist.png` → Tableau Visualization
+- `employee_support.png` → Tableau Visualization
 
 ## 💡 Key Insights
 - A small number of customers generate a large portion of revenue
